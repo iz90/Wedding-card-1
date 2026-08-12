@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Card Maker",
+  "description": "Automatically create beautiful personalized wedding invitation cards effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
